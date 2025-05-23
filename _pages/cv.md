@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+image: https://versibeta.github.io/beni.jpg
 redirect_from:
   - /resume
 ---
